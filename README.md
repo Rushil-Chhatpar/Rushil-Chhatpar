@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rushil-Chhatpar
-- 👀 I’m interested in GAMES and MILSIM
+- 👀 I’m interested in C/C++ and graphics APIs
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can't
+- 📫 How to reach me ... 
 
 <!---
 Rushil-Chhatpar/Rushil-Chhatpar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
